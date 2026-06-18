@@ -53,7 +53,6 @@ export function HeroSection() {
           {/* Download CV and Primary CTA */}
           <div className="flex flex-col sm:flex-row gap-4 items-center justify-center">
             <a
-              href="#"
               className="px-6 py-3 bg-accent text-accent-foreground font-semibold rounded hover:opacity-90 transition-opacity flex items-center gap-2"
             >
               <Download size={20} />

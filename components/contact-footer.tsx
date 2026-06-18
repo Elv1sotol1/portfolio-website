@@ -40,7 +40,7 @@ export function ContactFooter() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           {/* Location */}
           <a
-            href="#"
+            href="https://maps.google.com/?q=Nairobi,Kenya"
             className="p-6 border border-border rounded-lg hover:border-emerald-500/50 hover:bg-card/80 transition-all duration-300 group text-center"
           >
             <div className="w-10 h-10 rounded-lg bg-emerald-500/10 text-emerald-400 flex items-center justify-center mx-auto mb-4 group-hover:bg-emerald-500/20 transition-colors">
@@ -52,7 +52,7 @@ export function ContactFooter() {
 
           {/* Phone */}
           <a
-            href="tel:+254700000000"
+            href="tel:+254708592842"
             className="p-6 border border-border rounded-lg hover:border-emerald-500/50 hover:bg-card/80 transition-all duration-300 group text-center"
           >
             <div className="w-10 h-10 rounded-lg bg-emerald-500/10 text-emerald-400 flex items-center justify-center mx-auto mb-4 group-hover:bg-emerald-500/20 transition-colors">
@@ -64,7 +64,7 @@ export function ContactFooter() {
 
           {/* Email */}
           <a
-            href="mailto:elvis@example.com"
+            href="mailto:otolielvis001@gmail.com"
             className="p-6 border border-border rounded-lg hover:border-emerald-500/50 hover:bg-card/80 transition-all duration-300 group text-center"
           >
             <div className="w-10 h-10 rounded-lg bg-emerald-500/10 text-emerald-400 flex items-center justify-center mx-auto mb-4 group-hover:bg-emerald-500/20 transition-colors">
@@ -96,7 +96,7 @@ export function ContactFooter() {
             <span className="text-sm font-medium hidden sm:inline">LinkedIn</span>
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/elvis-o-2834b9349/?skipRedirect=true"
             className="p-3 rounded border border-border hover:border-emerald-500 hover:bg-emerald-500/10 text-foreground hover:text-emerald-400 transition-all duration-300 group flex items-center gap-2"
           >
             <LinkIcon />

@@ -23,7 +23,7 @@ export function Navigation() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
         <div className="flex items-center justify-between">
           <a
-            href="#"
+            href="https://portfolio-website-two-eta-73.vercel.app/"
             className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-emerald-600 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
           >
             EO
